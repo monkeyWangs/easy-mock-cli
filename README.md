@@ -6,6 +6,8 @@ Easy Mock CLI 是一个基于 [Easy Mock](https://www.easy-mock.com) 快速生�
 
 如果你正在使用 Easy Mock 伪造接口数据，那一定不要错过 Easy Mock CLI。
 
+<script src="https://gist.github.com/monkeyWangs/3b2f27f0ddc91d466fbc57c60b976bc9.js"></script>
+
 ## Links
 
 - [Documentation](https://easy-mock.github.io/easy-mock-cli/)
